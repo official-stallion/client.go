@@ -14,9 +14,6 @@ Get package:
 go get github.com/official-stallion/go-sdk@latest
 ```
 
-Now to set the client up you need to create a **stallion** server.<br />
-Stallion server is the message broker server.
-
 ### Creating Clients
 
 You can connect to stallion server like the example below:
